@@ -1,0 +1,24 @@
+- Lecture
+    - Course introduction, problem definitions, applications
+    - Supervised multi-task learning, black-box meta-learning
+    - Optimization-based meta-learning
+    - Few-shot learning via metric learning
+    - Bayesian meta-learning
+    - Renforcement learning primer, multi-task RL, goal-conditioned RL
+    - Model-based RL for multi-task learning, meta model-based RL
+    - Lifelong learning: problem statement, forward & backward transfer
+    - Frontiers: Memorization, unsupervised meta-learning, open problems 	
+
+- Reading
+    - Applications in imitation learning, vision, language, generative models
+    - Hybrid meta-learning approaches
+    - Meta-learning for active learning, weakly-supervised learning, unsupervised learning
+    - Auxiliary objectives, state representation learning
+    - Hierarchical RL, curriculum generation
+    - Meta-RL and emergent phenomenon
+    - Miscellaneous multi-task/meta-RL topics
+
+- Guest Lecture
+    - Kate Rakelly, UC Berkeley: Meta-RL, learning to explore
+    - Jeff Clune, University of Wyoming / Uber
+    - Sergey Levine, UC Berkeley: Information theoretic exploration
