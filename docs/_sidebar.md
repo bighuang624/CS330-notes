@@ -1,5 +1,5 @@
 - Lecture
-    - Course introduction, problem definitions, applications
+    - [Course introduction, problem definitions, applications](introduction.md)
     - Supervised multi-task learning, black-box meta-learning
     - Optimization-based meta-learning
     - Few-shot learning via metric learning

@@ -1,10 +1,10 @@
-<h1 align="center">《CS330: 深度多任务学习与元学习》课程笔记</h1>
+<h1 align="center">《CS330: 深度多任务与元学习》课程笔记</h1>
 
 <p align="center"><a href="http://kyonhuang.top"><img src="https://img.shields.io/badge/%E4%BD%9C%E8%80%85-KyonHuang-7AD6FD.svg"></a></p>
 
 ## 课程简介
 
-《CS330: 深度多任务学习与元学习》是 Chelsea Finn 教授在 Stanford 开设的一门面向研究生的课程。这门课着重于研究如何利用多个任务来更有效地学习，包括：
+《CS330: 深度多任务与元学习》是 Chelsea Finn 教授在 Stanford 开设的一门面向研究生的课程。这门课着重于研究如何利用多个任务来更有效地学习，包括：
 
 * 目标条件强化学习技术，利用所提供的目标空间的结构，显著地更快地学习许多任务；
 * 元学习方法，旨在学习能够快速学习新任务的高效学习算法；
