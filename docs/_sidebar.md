@@ -1,6 +1,6 @@
 - Lecture
     - [Course introduction, problem definitions, applications](introduction.md)
-    - Supervised multi-task learning, black-box meta-learning
+    - [Supervised multi-task learning, black-box meta-learning](basic.md)
     - Optimization-based meta-learning
     - Few-shot learning via metric learning
     - Bayesian meta-learning
