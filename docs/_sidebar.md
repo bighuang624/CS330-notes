@@ -2,7 +2,7 @@
     - [Course introduction, problem definitions, applications](introduction.md)
     - [Supervised multi-task learning, black-box meta-learning](basic.md)
     - Optimization-based meta-learning
-    - Few-shot learning via metric learning
+    - [Few-shot learning via metric learning](metric_based.md)
     - Bayesian meta-learning
     - Renforcement learning primer, multi-task RL, goal-conditioned RL
     - Model-based RL for multi-task learning, meta model-based RL
